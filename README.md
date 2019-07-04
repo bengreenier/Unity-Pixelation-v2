@@ -12,10 +12,8 @@ Naturally this required a few modifications, which I've included in this reposit
 + Add the effects to a PostProcessing Volume
 
 ![Chunky Example](./.github/chunky-example.png)
-
-
 ![Pixelation Example](./.github/pixelation-example.png)
 
 ## License
 
-The Initial package isn't mine to License. However, my modifications are MIT licensed.
+The initial package isn't mine to License. However, my modifications are MIT licensed.
